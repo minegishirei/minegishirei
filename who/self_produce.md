@@ -30,6 +30,9 @@
 
 エンジニア6年目 / Python Django Docker Javascript SQL / 人材関連企業の社内SE / みねぎしれい(minegishirei) / vim練習中です。
 
+https://pm.short-tips.info/who/self_produce.md
+
+
 ## 自己紹介:みねぎしれいです
 
 - 改めまして（みねぎしれい）と申します。
@@ -46,13 +49,18 @@
 
 - 人材関連サイト（サムネイル）
 
-<img style="width: 50%; " src="https://eh-career.com/image/article_hub/40/41/140_01.jpg">
+<a href="https://flamevalue.short-tips.info/">
+<img style="width: 50%; " src="https://github.com/kawadasatoshi/minegishirei/blob/main/flamevalue/flamevalue.png?raw=true">
+</a>
+
 
 - 技術系ブログ
 
+<a href="https://pm.short-tips.info/">
 <img style="width: 50%; " src="https://eh-career.com/image/article_hub/40/41/140_01.jpg">
+</a>
 
-Googleの検索結果をリンクにする
+
 
 
 ## 何ができるのか？:エンジニア,リクルーター,ブロガー
