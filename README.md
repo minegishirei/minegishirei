@@ -6,6 +6,11 @@
 初めまして、みねぎしれいと申します。
 和光市在住の人材業界社内SEの25歳エンジニアです。
 
+
+
+
+## コンテナと心理学
+
 - 好きなもの2つ：コンテナと心理学。
   - コンテナ
     - beforeコンテナ: プログラミングの一番高いハードルは環境構築。ここで躓くと大きくモチベーションがそがれてしまう。
@@ -25,15 +30,11 @@
       - エンジニア心理学は **円滑な人間関係,チームワークを望む「エンジニア向けの学問」です。** 
       - 会話が苦手なエンジニアでも実践できる体型だったコミュニケーション術をまとめました。ケース別に対応方法を網羅した点が特徴です
       - <img src="https://github.com/minegishirei/minegishirei/blob/main/img/engineer_psychology.png?raw=true">
+      - https://qiita.com/minegishirei_v2/items/2d5af4fba628390ec988
 - 上記二つをマリアージュし、人の心がわかるリードエンジニアを目指してます。
 - <img src="https://github.com/minegishirei/draw_v1/blob/main/life.draw.io-engineer_psychology.drawio.png?raw=true">
 
 
-## エンジニア心理学 について
-
-エンジニア心理学は円滑な人間関係,チームワークを望む「エンジニア向けの学問」です。会話が苦手なエンジニアでも実践できる体型だったコミュニケーション術をまとめました。ケース別に対応方法を網羅した点が特徴です
-
-https://qiita.com/minegishirei_v2/items/2d5af4fba628390ec988
 
 
 ## 職歴
