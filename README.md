@@ -24,6 +24,7 @@
       - Qiitaにてエンジニア心理学会を立ち上げました。
       - エンジニア心理学は **円滑な人間関係,チームワークを望む「エンジニア向けの学問」です。** 
       - 会話が苦手なエンジニアでも実践できる体型だったコミュニケーション術をまとめました。ケース別に対応方法を網羅した点が特徴です
+      - <img src="https://github.com/minegishirei/minegishirei/blob/main/img/engineer_psychology.png?raw=true">
 - 上記二つをマリアージュし、人の心がわかるリードエンジニアを目指してます。
 - <img src="https://github.com/minegishirei/psy/blob/main/img/arch.png?raw=true">
 
