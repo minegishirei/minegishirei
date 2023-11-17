@@ -9,7 +9,10 @@
 
 好きなもの：コンテナと心理学。
 
-得意言語はDockerとPythonで、普段は技術系ブログの運営とDockerコミュニティの運営を行ってます。特にコンテナが大好きでフロントエンド、バックエンドそれらの基礎となるコンテナの技術習得を頑張ってます。
+得意言語はDockerで、普段は技術系ブログの運営とDockerコミュニティの運営を行ってます。特にコンテナが大好きでフロントエンド、バックエンドそれらの基礎となるコンテナの技術習得を頑張ってます。
+
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=oreilly10book-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=4873117763&linkId=8f2c267e229962f29d7bb1653145fe0e"></iframe>
+
 
 趣味はゲームで休日は友達とFPS（銃で撃つ系のゲーム）をします。
 
