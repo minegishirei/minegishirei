@@ -26,7 +26,7 @@
       - 会話が苦手なエンジニアでも実践できる体型だったコミュニケーション術をまとめました。ケース別に対応方法を網羅した点が特徴です
       - <img src="https://github.com/minegishirei/minegishirei/blob/main/img/engineer_psychology.png?raw=true">
 - 上記二つをマリアージュし、人の心がわかるリードエンジニアを目指してます。
-- <img src="https://github.com/minegishirei/psy/blob/main/img/arch.png?raw=true">
+- <img src="https://github.com/minegishirei/draw_v1/blob/main/life.draw.io-engineer_psychology.drawio.png?raw=true">
 
 
 ## エンジニア心理学 について
