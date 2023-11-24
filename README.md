@@ -7,36 +7,6 @@
 和光市在住の人材業界社内SEの25歳エンジニアです。
 
 
-
-
-## コンテナと心理学
-
-- 好きなもの2つ：コンテナと心理学。
-  - コンテナ
-    - beforeコンテナ: プログラミングの一番高いハードルは環境構築。ここで躓くと大きくモチベーションがそがれてしまう。
-    - afterコンテナ: **コンテナはなんでも用意してくれる。** 
-    - nginxもmysqlもreactもdjangoもコマンド一つで立ち上がってくれる。
-    - **なんでも用意してくれるコンテナが大好き!**
-    - 得意言語はDocker
-      - Dockerブログの運営
-      - Dockerコミュニティ(Disrcord)の運営
-      - <img src="https://github.com/minegishirei/minegishirei/blob/main/img/enter_docker.png?raw=true">
-    - ↑おすすめ書籍
-  - 心理学
-    - 純粋に面白い
-    - どんなソフトウェア、ツール、環境にいようと、結局は人の問題に帰着する。
-    - **技術力以外のすべての人間に関する問題を、心理学で解決したい**
-      - Qiitaにてエンジニア心理学会を立ち上げました。
-      - エンジニア心理学は **円滑な人間関係,チームワークを望む「エンジニア向けの学問」です。** 
-      - 会話が苦手なエンジニアでも実践できる体型だったコミュニケーション術をまとめました。ケース別に対応方法を網羅した点が特徴です
-      - <img src="https://github.com/minegishirei/minegishirei/blob/main/img/engineer_psychology.png?raw=true">
-      - https://qiita.com/minegishirei_v2/items/2d5af4fba628390ec988
-- 上記二つをマリアージュし、人の心がわかるリードエンジニアを目指してます。
-- <img src="https://github.com/minegishirei/draw_v1/blob/main/life.draw.io-engineer_psychology.drawio.png?raw=true">
-
-
-
-
 ## 職歴
 
 - Cardio Flow Design（2年：アルバイト）
@@ -51,7 +21,6 @@
 
 
 
-
 ## 個人活動
 
 - Dockerの勉強
@@ -63,62 +32,43 @@
 - [エンジニア心理学]()
 
 
-## 目標
-
-- すんごいエンジニア(Jeff DeanやBill Gatesぐらい)
-  - こんな感じになったら面白いと思う[全盛期のJeff Dean](https://qiita.com/umegaya/items/ef69461d6f4967d5c623)
-  - だからエンジニアリングを極めていく
-  - でもエンジニアリングだけを極めても同じレベルにはなれない
-  - エンジニアリングとは真反対の人間の本質、心理学を学ぶ必要がある
-
-つまりこんな感じ
 
 
 
 
 
+## 10xプログラマー養成所
 
-## 駆け出しエンジニア学習サイト一覧
+10xプログラマー養成所の目的は**10xプログラマーを育てることです**。
 
-このサイトは**駆け出しエンジニアのための学習サイト**です。
+10xプログラマーとは、普通のプログラマーと比べて10倍の生産性をもつプログラマーの事です。
+「無駄な機能を付けない」「オリジナリティを出さない」「副作用を減らす」「物理的に早く動く」を守るため、`アジャイル`、`Docker`、`関数型プログラミング`、`Vim`を中心とした10xのための技術をまとめました。
 
-対象者はプログラミングに入門した**脱初心者**で、**実務レベルで使える知識/技術**を集めました。
-**段階的**に技術を伸ばせるので、エンジニアとして次の一手を探している方にもおすすめです。
+<img src="https://github.com/minegishirei/minegishirei/blob/main/img/10x_programmer.png?raw=true">
 
-取り扱う記事は以下の通りで`SQL`や`Docker`などの製品知識から`アジャイル`などの開発手法まで幅広く取り扱います。
-
-[:contents]
-
-### 筆者
-
-#### [みねぎしれい](https://minegishirei.hatenablog.com/entry/2023/01/27/114655)
-
-
-
-### インフラ
-
-#### [Docker入門](https://minegishirei.hatenablog.com/entry/2023/09/02/213936)
-
-#### [アーキテクチャ関連](https://minegishirei.hatenablog.com/entry/2023/01/27/183831)
-
-#### [アーキテクトの仕事](https://minegishirei.hatenablog.com/entry/2023/02/07/114407)
+1. 無駄な機能を付けない
+    - あのExcelですら全体の80%の機能が使われていないそうです。これさえ意識すれば必要な作業量は1/5になります。
+    - MVP(価値の判定が可能な最小限の成果物)を高速で作ることで、無駄なものを作りません。
+    - キーワード）[`アジャイル`](https://minegishirei.hatenablog.com/entry/2023/01/27/164337)
+2. オリジナリティを出さない
+    - 0からコードを書くよりもすでに出来上がっているOSSのコード、コンテナイメージのほうがよいですね。
+    - キーワード） [`Docker入門`](https://minegishirei.hatenablog.com/entry/2023/09/02/213936)
+3. 副作用を減らす
+    - 予期しないコードはチームの生産性を落としますが、バグのない理解の早いコードはきちんと動くだけでなく、チームメンバーの生産性をも向上します。
+    - キーワード） [`関数型プログラミング`](https://minegishirei.hatenablog.com/entry/2023/11/22/090144)
+4. 物理的に早く動く
+    - ショートカットキー、キーボードの選定では物理的な操作スピードを向上させてくれます。
+    - キーワード） [`Vim`](https://minegishirei.hatenablog.com/entry/2023/03/19/204719)
 
 
-### プログラミング
-
-#### [Kotlin](https://minegishirei.hatenablog.com/entry/2023/02/09/101751)
-
-#### [Powershell](ttps://minegishirei.hatenablog.com/entry/2023/02/15/162959)
-
-#### [SQL](https://minegishirei.hatenablog.com/archive/category/SQL)
+これに加えて、私個人が大切にしたいのが二つの「人間」に関する課題
 
 
-### 開発手法
-
-#### [リファクタリング](https://minegishirei.hatenablog.com/entry/2023/02/02/165446:embed:cite)
-
-
-#### [アジャイル](https://minegishirei.hatenablog.com/entry/2023/01/27/164337)
+5. 人間中心のシステム設計
+    - キーワード）[`エンジニアデザイン心理学`](https://qiita.com/organizations/engineer_design_psychology)
+6. 結局最後は人の問題
+    - 人間関係は最後の問題となる。
+    - キーワード）[`エンジニア心理学`](https://qiita.com/organizations/engineering_psychology)
 
 
 
