@@ -3,9 +3,6 @@
 
 
 <div class="field" style="display: flex;">
-  <div>
-    <img width="150px" src="https://avatars.githubusercontent.com/u/68362169?v=4" style="border-radius: 50%">
-  </div>
   <div style="padding-left: 10px">
     <a href="https://github.com/minegishirei">
       みねぎしれい(27)
